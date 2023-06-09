@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolentContact.API", "EvolentContact.API\EvolentContact.API.csproj", "{77CA4050-8407-4E29-BAC7-CF2027F80AA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolentContact.Common", "EvolentContact.Common\EvolentContact.Common.csproj", "{863BF9D5-D874-44F0-B6BB-2220D2CBAD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolentContact.Data", "EvolentContact.Data\EvolentContact.Data.csproj", "{FA1822FA-D6EC-4C52-9B3D-003001D10586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolentContact.Services", "EvolentContact.Services\EvolentContact.Services.csproj", "{53605CDA-43AF-4981-BD77-B7A44B0CB6A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CA4050-8407-4E29-BAC7-CF2027F80AA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CA4050-8407-4E29-BAC7-CF2027F80AA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CA4050-8407-4E29-BAC7-CF2027F80AA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CA4050-8407-4E29-BAC7-CF2027F80AA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863BF9D5-D874-44F0-B6BB-2220D2CBAD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863BF9D5-D874-44F0-B6BB-2220D2CBAD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863BF9D5-D874-44F0-B6BB-2220D2CBAD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863BF9D5-D874-44F0-B6BB-2220D2CBAD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA1822FA-D6EC-4C52-9B3D-003001D10586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA1822FA-D6EC-4C52-9B3D-003001D10586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA1822FA-D6EC-4C52-9B3D-003001D10586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA1822FA-D6EC-4C52-9B3D-003001D10586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53605CDA-43AF-4981-BD77-B7A44B0CB6A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53605CDA-43AF-4981-BD77-B7A44B0CB6A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53605CDA-43AF-4981-BD77-B7A44B0CB6A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53605CDA-43AF-4981-BD77-B7A44B0CB6A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A9DAA14-9091-4176-BE1D-DDC5F647B1ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\bin\Debug\net6.0\EvolentContact.Data.deps.json
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\bin\Debug\net6.0\EvolentContact.Data.dll
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\bin\Debug\net6.0\EvolentContact.Data.pdb
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\bin\Debug\net6.0\EvolentContact.Common.dll
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\bin\Debug\net6.0\EvolentContact.Common.pdb
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.csproj.AssemblyReference.cache
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.AssemblyInfoInputs.cache
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.AssemblyInfo.cs
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.csproj.CopyComplete
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.dll
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\refint\EvolentContact.Data.dll
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\EvolentContact.Data.pdb
+C:\Users\Sanket.Marathe.SLO\Downloads\Sanket Data\EvolentContact.API\EvolentContact.Data\obj\Debug\net6.0\ref\EvolentContact.Data.dll

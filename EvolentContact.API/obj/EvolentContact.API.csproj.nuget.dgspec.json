@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.API\\EvolentContact.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.API\\EvolentContact.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.API\\EvolentContact.API.csproj",
+        "projectName": "EvolentContact.API",
+        "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.API\\EvolentContact.API.csproj",
+        "packagesPath": "C:\\Users\\Sanket.Marathe.SLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sanket.Marathe.SLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.302\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj": {
+                "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj"
+              },
+              "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\EvolentContact.Services.csproj": {
+                "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\EvolentContact.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj",
+        "projectName": "EvolentContact.Common",
+        "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj",
+        "packagesPath": "C:\\Users\\Sanket.Marathe.SLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sanket.Marathe.SLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\EvolentContact.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\EvolentContact.Data.csproj",
+        "projectName": "EvolentContact.Data",
+        "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\EvolentContact.Data.csproj",
+        "packagesPath": "C:\\Users\\Sanket.Marathe.SLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sanket.Marathe.SLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj": {
+                "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\EvolentContact.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\EvolentContact.Services.csproj",
+        "projectName": "EvolentContact.Services",
+        "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\EvolentContact.Services.csproj",
+        "packagesPath": "C:\\Users\\Sanket.Marathe.SLO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sanket.Marathe.SLO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://mindbody.pkgs.visualstudio.com/_packaging/Mindbody-Nuget/nuget/v3/index.json": {},
+          "https://nuget.mbodev.me/nuget": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj": {
+                "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Common\\EvolentContact.Common.csproj"
+              },
+              "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\EvolentContact.Data.csproj": {
+                "projectPath": "C:\\Users\\Sanket.Marathe.SLO\\Downloads\\Sanket Data\\EvolentContact.API\\EvolentContact.Data\\EvolentContact.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

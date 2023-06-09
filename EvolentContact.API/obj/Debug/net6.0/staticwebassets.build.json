@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TfdVgRLIXmSzUatnwpuOxK58SaGEjXQyoQFMm7mE8Sk=",
+  "Source": "EvolentContact.API",
+  "BasePath": "_content/EvolentContact.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

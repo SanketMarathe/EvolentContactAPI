@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EvolentContact.API.props" />
+</Project>
